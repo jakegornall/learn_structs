@@ -1,0 +1,7 @@
+[package]
+name = "learn_structs"
+version = "0.1.0"
+authors = ["Jake Gornall <jakegornall@yahoo.com>"]
+
+[dependencies]
+rand = "0.3.14"
